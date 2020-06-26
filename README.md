@@ -16,19 +16,20 @@ If you want to know more about me please get in touch though a.filgas@gmail.com 
 
 ### Data Science and Machine Learning
 
- - **DataACME** - 
- - **Coronavirus - Brazil** - 
- - **Web Traffic Time Series Forecasting** - 
- - **IEEE-CIS Fraud Detection** - 
- - **Ifood Selection Test** - 
- - **Santander Customer Transaction Prediction** - 
- - **Censo da Educação Superior 2018** - 
- - **Programa de Seguro-Desemprego** - 
- 
+- **DataACME** - 
+- **Coronavirus - Brazil** - 
+- **Web Traffic Time Series Forecasting** - 
+- **IEEE-CIS Fraud Detection** - 
+- **Ifood Selection Test** - 
+- **Santander Customer Transaction Prediction** - 
+- **Censo da Educação Superior 2018** - 
+- **Programa de Seguro-Desemprego** - 
+
 ### Data Analysis
 
- - PowerBI
-  - Photovoltaic Power Production and Returns
+- PowerBI:
+  
+  -Photovoltaic Power Production and Returns
 
 ### Product Management
- - Ideias Energia Website
+ - Ideias Energia Website - ideiasenergia.com
